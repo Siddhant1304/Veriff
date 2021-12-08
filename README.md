@@ -15,3 +15,9 @@ Now the next step is to create a virtual enviroment for the implementation using
 Please follow the instruction in: https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html
 
 The next step is to activate the enviroment and installing the requirements.txt
+
+After installing the enviromental requirements you are ready to go with the jupyter notebooks.
+
+To run the text detection algorithm please follow the instruction in the github repo: https://github.com/Siddhant1304/TextSnake.pytorch
+
+For further details of the algorithm please refer the paper "TextSnake: A Flexible Representation for Detecting Text of Arbitrary Shapes": https://arxiv.org/abs/1807.01544
